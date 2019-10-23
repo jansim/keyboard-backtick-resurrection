@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>org.sil.ukelele.keyboardlayout.</string>
+	<string>org.sil.ukelele.keyboardlayout.germankeyboard(fixedbacktick)</string>
 	<key>CFBundleName</key>
-	<string></string>
+	<string>German Keyboard - fixed backtick</string>
 	<key>CFBundleVersion</key>
 	<string></string>
-	<key>KLInfo_GermanS copy</key>
+	<key>KLInfo_German Keyboard - fixed backtick</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<false/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout..germanscopy</string>
+		<string>org.sil.ukelele.keyboardlayout.germankeyboard(fixedbacktick).germankeyboard-fixedbacktick</string>
 		<key>TISIntendedLanguage</key>
 		<string>de</string>
 	</dict>
